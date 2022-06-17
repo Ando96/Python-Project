@@ -1,36 +1,3 @@
-# Arash's coursework template
-
-# Ryan Anderson, ra111                               <--- so we know who you are
-# F28PL Coursework 2, Python                         <--- sanity check
-
-
-# You may assume variables, procedures, and functions defined in earlier questions
-# in your answers to later questions, though you should add comments in code explaining
-# this if any clarification might help read your code.
-
-
-################################################################################
-# Question 1   <--- Yes, so we know what question you think you're answering
-
-
-"""
-The complex numbers are explained here (and elsewhere):
- http://www.mathsisfun.com/algebra/complex-number-multiply.html
-Represent a complex integer as a pair of integers, so (4,5) represents 4+5i (or 4+5j, depending on the complex numbers
-notation you use).
-1a. Using def, define functions cadd and cmult representing complex integer addition and
-tymultiplication.
-For instance,
- cadd((1,0),(0,1))
-should compute
- (1,1j).
-1b. Python has its own native implementation of complex numbers. Write translation functions
-tocomplex and fromcomplex that map the pair (x1,y1) to the complex number x1+(y1)j and vice 
-versa. You may use the python methods real and imag without comment, but not complex 
-(use j directly instead).
-"""
-#  <--- always have the question under your nose
-
 #####################################
 # Question 1a
 
